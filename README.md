@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" /> </p>
 
-- 👨‍💻 All of my projects are available at [nilesh-profile.vercel.app](nilesh-profile.vercel.app)
+- 👨‍💻 All of my projects are available at [nileshkumar.vercel.app](nileshkumar.vercel.app)
 
 - 📫 How to reach me **nileshkumarextra@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
