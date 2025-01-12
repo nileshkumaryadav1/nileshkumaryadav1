@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="left">Learning:</h3>
+<h3 align="left">Learning these Technologies:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
