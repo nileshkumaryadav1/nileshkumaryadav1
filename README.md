@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app/)
 
-- 📫 How to reach me **nileshkumarextra@gmail.com**
+- 📫 How to reach me Through Email
 
 <p align="left">
 </p>
