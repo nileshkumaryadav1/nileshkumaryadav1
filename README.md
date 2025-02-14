@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" /> </p>
 
 - 👨‍💻 My First Full stack(MERN App) a Blog app is at [https://blogwriting.vercel.app/](https://blogwriting.vercel.app/)
-- 👨‍💻 My Second Full stack(MERN App) a College Finder App is at [https://collegefinder.vercel.app/](https://collegefinder.vercel.app/)
+- 👨‍💻 My Second Full stack(MERN App) a College Finder App is at [https://collegefinder.vercel.app/](https://college-finder-frontend.vercel.app/)
 
 - 👨‍💻 All of my projects are visible at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app/)
 
