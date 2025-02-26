@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are visible at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app/)
 
-- 📫 How you can reach to me 👉 Just drop an Email
+- 📫 How can you reach me 👉 Just drop an Email
 
 <p align="left">
 </p>
