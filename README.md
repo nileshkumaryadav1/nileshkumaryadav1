@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" /> </p>
 
-- 👨‍💻 My First Full stack(MERN App) a Blog app is at [https://blogwriting.vercel.app/](https://blogwriting.vercel.app/)
-- 👨‍💻 Full Stack Next.JS App- College Finder [https://collegefinder.vercel.app/](https://collegefinder.vercel.app/)
+- 👨‍💻 All of my projects are visible at [https://nileshprojects.vercel.app](https://nileshprojects.vercel.app)
 
-- 👨‍💻 All of my projects are visible at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app/)
-
-- 📫 How can you reach me 👉 Just drop an Email
+- 📫 To reach me 👉 Send me an e-mail
 
 <p align="left">
 </p>
