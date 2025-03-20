@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" /> </p>
 
-- 👨‍💻 All of my projects are visible at [https://nileshprojects.vercel.app](https://nileshprojects.vercel.app)
+- 👨‍💻 All of my hardwork are visible at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app)
 
 - 📫 To reach me 👉 Send me an e-mail
 
