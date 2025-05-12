@@ -1,38 +1,60 @@
 <h1 align="center">Hi 👋, I'm Nilesh Kumar</h1>
-<h3 align="center">I am a Civil Engineering student. And also a inspired learner of web development.</h3>
+<h3 align="center">Civil Engineering student | Passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" /> </p>
-
-- 👨‍💻 All of my hardwork are visible at [https://nileshkumar.vercel.app](https://nileshkumar.vercel.app)
-
-- 📫 To reach me 👉 Send me an e-mail
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nileshkumaryadav1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkumaryadav1" />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> -->
+
+<p align="center">
+  👨‍💻 Check out my portfolio: <a href="https://nileshkumar.vercel.app" target="_blank"><strong>nileshkumar.vercel.app</strong></a><br />
+  📫 Reach me via email (Given on Profile section)
+</p>
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,vercel,express,npm,nodejs,react,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,vercel,express,npm,nodejs,react,mongodb" alt="Tech Stack" />
   </a>
 </p>
 
-<h3 align="left">Learning these Technologies:</h3>
+---
+
+### 📚 Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,js,ts,bootstrap,tailwind,nextjs" />
+    <img src="https://skillicons.dev/icons?i=c,py,js,ts,bootstrap,tailwind,nextjs" alt="Currently Learning" />
   </a>
 </p>
 
-<!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
+---
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshkumaryadav1" alt="nileshkumaryadav1" /></a> </p>
+### 📊 Most Used Languages
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkumaryadav1&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshkumaryadav1&show_icons=true&locale=en" alt="nileshkumaryadav1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkumaryadav1&" alt="nileshkumaryadav1" /></p> -->
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nileshkumaryadav1&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+---
+
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nileshkumaryadav1&theme=algolia" />
+  </a>
+</p>
+
+---
