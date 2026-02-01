@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nilesh Kumar 👋</h1>
 
 <h3 align="center">
-Civil Engineering Undergraduate • Full-Stack Web Developer • Hackathon Winner
+Civil Engineering Undergraduate • Full-Stack Web Developer
 </h3>
 
 <p>
@@ -96,11 +96,10 @@ Next.js · React · Tailwind · Node.js · Express · MongoDB · JWT · Vercel
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupamjhabbl)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anupamjhabbl)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anupamjhaabbl)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7mOo0iLQ9OCudxMu5qXvHA)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupamimpbbl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshkumaryadav1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nileshnayan_)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NileshAndShubham)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nileshkumarextra@gmail.com)
 
 <p align="center">
   <strong>“Learning by building. Improving by shipping.”</strong>
